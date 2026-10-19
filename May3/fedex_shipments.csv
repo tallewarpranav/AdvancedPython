@@ -1,0 +1,51 @@
+Shipment_ID,Origin_City,Destination_City,Distance_km,Delivery_Time_hrs,Package_Weight_kg,Shipping_Cost_USD,Delivery_Status,Vehicle_Type,Customer_Type
+S001,Mumbai,Delhi,1400,30,12,85,Delivered,Truck,Business
+S002,Delhi,Bangalore,2150,48,8,120,Delayed,Air,Individual
+S003,Chennai,Mumbai,1330,28,5,70,Delivered,Truck,Business
+S004,Kolkata,Delhi,1500,36,15,95,In Transit,Truck,Business
+S005,Bangalore,Hyderabad,570,12,3,40,Delivered,Van,Individual
+S006,Hyderabad,Mumbai,710,15,7,55,Delivered,Van,Business
+S007,Delhi,Kolkata,1500,40,20,110,Delayed,Truck,Business
+S008,Mumbai,Chennai,1330,26,10,75,Delivered,Air,Individual
+S009,Bangalore,Delhi,2150,50,25,140,Delayed,Air,Business
+S010,Chennai,Kolkata,1670,38,18,105,In Transit,Truck,Business
+S011,Mumbai,Pune,150,5,2,20,Delivered,Van,Individual
+S012,Pune,Mumbai,150,6,4,25,Delivered,Van,Business
+S013,Delhi,Jaipur,280,8,6,35,Delivered,Van,Individual
+S014,Jaipur,Delhi,280,9,9,45,Delivered,Van,Business
+S015,Kolkata,Bhubaneswar,440,12,11,60,In Transit,Truck,Business
+S016,Bhubaneswar,Kolkata,440,14,13,65,Delayed,Truck,Individual
+S017,Hyderabad,Bangalore,570,13,5,42,Delivered,Van,Individual
+S018,Bangalore,Chennai,350,9,7,38,Delivered,Van,Business
+S019,Chennai,Bangalore,350,10,9,45,Delivered,Van,Business
+S020,Delhi,Lucknow,550,14,10,50,Delivered,Truck,Individual
+S021,Lucknow,Delhi,550,16,12,60,Delayed,Truck,Business
+S022,Mumbai,Ahmedabad,530,13,8,48,Delivered,Truck,Business
+S023,Ahmedabad,Mumbai,530,14,6,45,Delivered,Truck,Individual
+S024,Delhi,Chandigarh,250,7,3,30,Delivered,Van,Individual
+S025,Chandigarh,Delhi,250,8,5,32,Delivered,Van,Business
+S026,Kolkata,Patna,600,18,14,70,Delayed,Truck,Business
+S027,Patna,Kolkata,600,16,12,68,Delivered,Truck,Individual
+S028,Mumbai,Goa,590,14,6,52,Delivered,Van,Individual
+S029,Goa,Mumbai,590,15,7,55,Delivered,Van,Business
+S030,Bangalore,Mysore,150,5,2,22,Delivered,Van,Individual
+S031,Mysore,Bangalore,150,6,3,25,Delivered,Van,Business
+S032,Hyderabad,Chennai,630,16,10,60,In Transit,Truck,Business
+S033,Chennai,Hyderabad,630,15,9,58,Delivered,Truck,Individual
+S034,Delhi,Mumbai,1400,32,20,120,Delayed,Air,Business
+S035,Mumbai,Delhi,1400,30,18,110,Delivered,Air,Business
+S036,Bangalore,Delhi,2150,52,30,150,Delayed,Air,Business
+S037,Delhi,Bangalore,2150,48,22,135,Delivered,Air,Individual
+S038,Chennai,Mumbai,1330,27,11,80,Delivered,Truck,Business
+S039,Mumbai,Chennai,1330,29,14,90,Delayed,Truck,Business
+S040,Kolkata,Delhi,1500,42,19,115,Delayed,Truck,Individual
+S041,Delhi,Kolkata,1500,39,16,105,Delivered,Truck,Business
+S042,Hyderabad,Mumbai,710,17,13,65,In Transit,Truck,Business
+S043,Mumbai,Hyderabad,710,16,12,62,Delivered,Truck,Individual
+S044,Bangalore,Hyderabad,570,14,8,48,Delivered,Van,Business
+S045,Hyderabad,Bangalore,570,15,9,50,Delayed,Van,Individual
+S046,Pune,Mumbai,150,6,4,28,Delivered,Van,Business
+S047,Mumbai,Pune,150,5,3,26,Delivered,Van,Individual
+S048,Delhi,Jaipur,280,9,7,40,Delivered,Van,Business
+S049,Jaipur,Delhi,280,10,8,42,Delayed,Van,Individual
+S050,Kolkata,Patna,600,20,15,75,Delayed,Truck,Business
